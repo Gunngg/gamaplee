@@ -44,7 +44,7 @@ version = "5.0"
     -. - subtracts 1 from the copied value
     x - set copied value to 0
     F - f but for the copied value
-    [] - if current cell's value isnt 0, does whats inside the brackets, otherwise skips them
+    [ ] - if current cell's value isnt 0, does whats inside the brackets, otherwise skips them
     [' ] - if current cell's value IS 0, does whats inside the brackets, otherwise skips them
     [. ] - if copied value isnt 0, does whats inside the brackets, otherwise skips them
     [, ] - if copied value IS 0, does whats inside the brackets, otherwise skips them
