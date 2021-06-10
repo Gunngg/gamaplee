@@ -44,6 +44,8 @@ version = "5.0"
     -. - subtracts 1 from the copied value
     x - set copied value to 0
     F - f but for the copied value
+    _ - sets current cells value to 0
+    ? - sets current cells value to a random ascii character value (between 33 and 126 inclusive)
     [ ] - if current cell's value isnt 0, does whats inside the brackets, otherwise skips them
     [' ] - if current cell's value IS 0, does whats inside the brackets, otherwise skips them
     [. ] - if copied value isnt 0, does whats inside the brackets, otherwise skips them
@@ -68,8 +70,6 @@ version = "5.0"
     c - outputs numbers 0-9 as themselves, everything else as ascii [opposite of i]
     C - c without newline
     c'/C' - c without newline but with space
-    _ - sets current cells value to 0
-    ? - sets current cells value to a random ascii character value (between 33 and 126 inclusive)
     = - [eq] if current value is equal to value above then value below is set to 1, otherwise its 0
     =' - [not eq] if current value is NOT equal to value above then value below is set to 1, otherwise its 0
     >' - [greater] if current value is greater than value above then value below is 1, otherwise is 0
