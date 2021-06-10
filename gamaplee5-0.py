@@ -48,7 +48,7 @@ version = "5.0"
     [' ] - if current cell's value IS 0, does whats inside the brackets, otherwise skips them
     [. ] - if copied value isnt 0, does whats inside the brackets, otherwise skips them
     [, ] - if copied value IS 0, does whats inside the brackets, otherwise skips them
-    {} - repeats whats inside the brackets n times where n is the current cell's value 
+    { } - repeats whats inside the brackets n times where n is the current cell's value 
     {' } - same as above but sets current value to 0 before repeating
     {. } - repeats whats inside the brackets n times where n is the currently copied value and doesnt delete it (see ":" and ";")
     {, } - same as above but sets copied value to 0
