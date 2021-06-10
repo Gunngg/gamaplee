@@ -1,0 +1,2 @@
+n:{.I>}{.<}{.Q>}
+#you need to specify the length of the input and then input symbol by symbol

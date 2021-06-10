@@ -1,0 +1,3 @@
+n:{.vvn+'};v/vo
+
+# first input is the amount of numbers, all others are the numbers themselves

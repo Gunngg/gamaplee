@@ -1,0 +1,3 @@
+1zIq2
+
+#infinitely asks you for input and immediately outputs it

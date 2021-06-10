@@ -1,0 +1,3 @@
++o'o'v+1Z+'vo'2
+
+#prints all fibonacci numbers (until it crashes)

@@ -1,0 +1,8 @@
+n:1zv-.;*v2^^o
+
+# n:    # takes input and copies it
+#  1z   # repeats until finds a cell with value = 0
+#  v-.; # moves down, subtracts 1 from the copied value and pastes it
+#  *v   # multiplies the pasted value by the value above and moves down
+#  2    # if current value isnt 0, goes back to 1z
+# ^^o   # at the end goes up 2 cells and outputs

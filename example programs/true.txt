@@ -1,0 +1,3 @@
++vn:=v[1zO2]>;=v[-o]
+
+# takes users input, if its 0 outputs 0 if its 1 infinitely outputs 1
