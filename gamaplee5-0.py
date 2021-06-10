@@ -77,7 +77,7 @@ version = "5.0"
     <' - [less] if current value is less than value above then value below is 1 otherwise 0
     <. - [less or eq] if current value is less or equals value above then value below is 1 otherwise 0
     & - [and] if current value and value above arent 0, value below becomes 1, otherwise 0
-    &' - if current value and value above ARE both 0, value below gets set to 1, otherwise it gets set to 0
+    &' - [nor] if current value and value above ARE both 0, value below gets set to 1, otherwise it gets set to 0
     | - [or] if current value OR value above arent zero, value below is 1, otherwise 0
     |' - [xor] same as above but there should but its only 1-0 or 0-1 (it cant be 1-1)
     * - multiplies current cell's value by the value of the cell above and saves it into cell below
