@@ -1,14 +1,14 @@
-+++svA'-*vQ ^^ # prints H and moves to 9
-+sv+Q # prints e
-+++++++QQ # prints ll
-+++Q > # prints o and moves
++++svA'-*vQ ^^    # prints H and moves to 9
++sv+Q             # prints e
++++++++QQ         # prints ll
++++Q >            # prints o and moves
 ++++sv-----*vQ' ^ # prints comma + space and moves
-_++v*v-Q # prints W
-^^^< Q # moves to o and prints
-+++ Q # prints r
-++++-'vQ # prints l
-A^-'v++Q # prints d
--^_+++v/vQ # prints the exclamation mark
+_++v*v-Q          # prints W
+^^^< Q            # moves to o and prints
++++ Q             # prints r
+++++-'vQ          # prints l
+A^-'v++Q          # prints d
+-^_+++v/vQ        # prints the exclamation mark
 
 # inline version
 #+++svA'-*vQ^^+sv+Q+++++++QQ+++Q>++++sv-----*vQ'^_++v*v-Q^^^<Q+++Q++++-'vQA^-'v++Q-^_+++v/vQ
