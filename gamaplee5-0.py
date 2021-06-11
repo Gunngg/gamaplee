@@ -61,13 +61,13 @@ version = "5.0"
     N - same as above but stores the ascii value of the number
     i - same as n but can also get strings as input - (numbers saved as themselves, symbols as ascii)
     I - stores all characters as ascii
-    o - outputs the current cells value [opposite of n]
+    o - outputs the current cells value with a new line [opposite of n]
     O - o without newline
     o'/O' - o without newline but with space
-    q - outputs the ascii character with the cells value [opposite of I]
+    q - outputs the ascii character with the cells value with a new line [opposite of I]
     Q - q without newline
     q'/Q' - q without newline but with space
-    c - outputs numbers 0-9 as themselves, everything else as ascii [opposite of i]
+    c - outputs numbers 0-9 as themselves, everything else as ascii with a new line [opposite of i]
     C - c without newline
     c'/C' - c without newline but with space
     = - [eq] if current value is equal to value above then value below is set to 1, otherwise its 0
