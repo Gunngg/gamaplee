@@ -116,19 +116,19 @@ V' - down
 
 **I** - stores all characters as ascii
 
-**o** - outputs the current cell's value (opposite of n)
+**o** - outputs the current cell's value with a new line (opposite of n)
 
 **O** - o without newline
 
 **o'**/**O'** - o without newline but with space
 
-**q** - outputs the ascii character with the cell's value (opposite of I)
+**q** - outputs the ascii character with the cell's value with a new line (opposite of I)
 
 **Q** - q without newline
 
 **q'**/**Q'** - q without newline but with space
 
-**c** - outputs numbers 0-9 as themselves, everything else as ascii (opposite of i)
+**c** - outputs numbers 0-9 as themselves, everything else as ascii with a new line (opposite of i)
 
 **C** - c without newline
 
