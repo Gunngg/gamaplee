@@ -122,7 +122,7 @@ V' - down
 
 **o'**/**O'** - o without newline but with space
 
-**q** - outputs the ascii character with the cell's value with a new line (opposite of I)
+**q** - outputs the ascii character with the cell's value with a new line (opposite of I and N)
 
 **Q** - q without newline
 
